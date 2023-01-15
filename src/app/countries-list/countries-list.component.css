@@ -1,0 +1,43 @@
+.sub-nav-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(6, 72, 133, 255);
+    padding: 40px 170px 140px;
+}
+
+.text-end p {
+    margin: 0%;
+    color: rgb(219, 215, 215);
+    font-weight: 500;
+    text-align: end;
+}
+
+.btn {
+    padding: 5px 30px;
+    background-color: rgba(6, 72, 133, 255);
+    color: white;
+    font-weight: 500;
+}
+
+.search-bar {
+    position: relative;
+    bottom: 50px;
+    background-color: white;
+    padding: 30px;
+}
+
+.footer {
+    background-color: black;
+    padding: 40px 170px;
+}
+.sub-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.link-text a , p{
+    text-decoration: none;
+   color: rgb(187, 175, 175);
+}
+.footer-text{
+    margin-top: 100px;
+}
